@@ -1,0 +1,12 @@
+#banner a{
+    font-family: 'Times New Roman', Times, serif;
+    display:flex;
+    margin:auto;
+}
+
+#banner{
+    width:100%;
+    position:fixed;
+    display:flex;
+    justify-content: center;
+}
