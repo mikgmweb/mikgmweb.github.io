@@ -10,3 +10,15 @@ p{
 h1{
     font-size: 500%;
 }
+
+#thatsme{
+position:absolute; 
+right:0; 
+top:10%; 
+
+@media (max-width: 800px) 
+{
+    position:relative;
+    left:0;
+}
+}
