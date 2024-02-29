@@ -1,12 +1,12 @@
-#banner a{
-    font-family: 'Times New Roman', Times, serif;
-    display:flex;
-    margin:auto;
+@font-face{
+    font-family: eorgia;
+    src:url(georgia.ttf);
 }
 
-#banner{
-    width:100%;
-    position:fixed;
-    display:flex;
-    justify-content: center;
+p{
+    font-family: eorgia;
+}
+
+h1{
+    font-size: 500%;
 }
