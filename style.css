@@ -1,20 +1,22 @@
 @font-face{
     font-family: eorgia;
-    src:url(FiraCode-Medium.ttf);
+    src:url(georgia.ttf);
 }
 
-p{
+#fira{
     font-family: eorgia;
 }
 
 h1{
     font-size: 500%;
+    font-family: eorgia;
 }
 
 #thatsme{
 position:absolute; 
 right:0; 
 top:10%; 
+font-family: eorgia;
 
 @media (max-width: 800px) 
 {
