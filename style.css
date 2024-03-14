@@ -1,25 +1,31 @@
 @font-face{
-    font-family: eorgia;
+    font-family: georgiac;
     src:url(georgia.ttf);
 }
 
-#fira{
-    font-family: eorgia;
+#georgia{
+    font-family: georgiac;
+}
+
+body{
+    background-image: url("gamer.png");
+    background-repeat: no-repeat;
+    background-size: auto, 100%;
+    background-position: 0%;
 }
 
 h1{
     font-size: 500%;
-    font-family: eorgia;
+    font-family: georgiac;
 }
 
 #thatsme{
 position:absolute; 
 right:0; 
 top:10%; 
-font-family: eorgia;
+font-family: georgiac;
 
-@media (max-width: 800px) 
-{
+@media (max-width: 800px) {
     position:relative;
     left:0;
 }
