@@ -3,19 +3,19 @@
     src:url(georgia.ttf);
 }
 
-#georgia{
+.georgia{
     font-family: georgiac;
     font-size:130%;
 }
 
-#post{
+.post{
     font-family: georgiac;
     font-size:110%;
     color:white;
     line-height: 2.0;
 }
 
-#footnote{
+.footnote{
     font-family: georgiac;
     font-size:80%;
     color:white;
@@ -38,7 +38,7 @@ h1{
     font-family: georgiac;
 }
 
-#thatsme{
+.thatsme{
 font-size: 225%;
 right:0; 
 top:10%; 
