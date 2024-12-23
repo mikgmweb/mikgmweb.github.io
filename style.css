@@ -1,51 +1,60 @@
-@font-face{
-    font-family: georgiac;
-    src:url(georgia.ttf);
+@font-face {
+  font-family: firacode;
+  src: url(FiraCode-Medium.ttf);
 }
 
-.georgia{
-    font-family: georgiac;
-    font-size:130%;
+a {
+  color: #6699CC;
 }
 
-.post{
-    font-family: georgiac;
-    font-size:110%;
-    color:white;
-    line-height: 2.0;
+.fira {
+  font-family: firacode;
+  font-size: 11pt;
+  color: white;
 }
 
-.footnote{
-    font-family: georgiac;
-    font-size:80%;
-    color:white;
-    line-height: 2.0;
+.back {
+
+  font-family: firacode;
+  font-size: 11pt;
+  color: #6699CC;
 }
 
-body{
-    background-image: url("gamer.png");
-    background-repeat: no-repeat;
-    background-size: auto, 100%;
-    background-position: 0%;
+.terminal-window {
+  background-color: #1D1D1D;
+  border-style: double;
+  border-color: white;
+
+  height: fit-content;
+  width: fit-content;
+
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  padding-left: 11pt;
+  right: 0;
+  padding-right: 11pt;
+
+  margin: auto;
 }
 
-li{
-    list-style-type: none;
+.post {
+  font-family: firacode;
+  font-size: 110%;
+  color: white;
+  line-height: 2.0;
+  margin-left: 3%;
+  margin-right: 3%;
 }
 
-h1{
-    font-size: 500%;
-    font-family: georgiac;
+.footnote {
+  font-family: firacode;
+  font-size: 80%;
+  color: white;
+  line-height: 2.0;
 }
 
-.thatsme{
-font-size: 225%;
-right:0; 
-top:10%; 
-font-family: georgiac;
-
-@media (max-width: 800px) {
-    position:relative;
-    left:0;
-}
+body {
+  background-color: #1D1D1D;
 }
