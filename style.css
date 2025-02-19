@@ -7,6 +7,35 @@ a {
   color: #6699CC;
 }
 
+.rock {
+  background-image: url("blog/special/2yr/begin/drive/IMG_2516.jpeg")
+}
+
+.scalator {
+  background-image: url("blog/special/2yr/begin/relaxation/scalator.jpg");
+  background-position: center;
+}
+
+.tuspies {
+  background-image: url("blog/special/2yr/begin/enjoyment/tuspies.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.center {
+  width: 500px;
+  height: 100px;
+  color: red;
+
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+}
+
 .fira {
   font-family: firacode;
   font-size: 11pt;
@@ -46,6 +75,14 @@ a {
   line-height: 2.0;
   margin-left: 3%;
   margin-right: 3%;
+}
+
+.code {
+  font-family: firacode;
+  font-size: 100%;
+  color: white;
+  text-align: center;
+  background: black;
 }
 
 .footnote {
