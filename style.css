@@ -37,14 +37,14 @@ a {
 }
 
 .fira {
-  font-family: firacode;
+  font-family: firacode, monospace;
   font-size: 11pt;
   color: white;
 }
 
 .back {
 
-  font-family: firacode;
+  font-family: firacode, monospace;
   font-size: 11pt;
   color: #6699CC;
 }
@@ -69,7 +69,7 @@ a {
 }
 
 .post {
-  font-family: firacode;
+  font-family: firacode, monospace;
   font-size: 110%;
   color: white;
   line-height: 2.0;
@@ -86,7 +86,7 @@ a {
 }
 
 .footnote {
-  font-family: firacode;
+  font-family: firacode, monospace;
   font-size: 80%;
   color: white;
   line-height: 2.0;
