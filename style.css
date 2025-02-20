@@ -68,6 +68,64 @@ a {
   margin: auto;
 }
 
+.terminal-window-fixed {
+  background-color: #1D1D1D;
+  border-style: double;
+  border-color: white;
+
+  display: flex;
+  justify-content: center;
+
+  height: 75%;
+  width: 75%;
+
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+}
+
+.sidebar {
+  margin: 1vh 0.5vh 1vh 1vh;
+  padding: 1vh;
+  background-color: #3B3B3B;
+  flex-grow: 1;
+}
+
+.main-content {
+  margin: 1vh 1vh 1vh 0.5vh;
+  padding: 1vh;
+  background-color: #3B3B3B;
+  flex-grow: 2;
+}
+
+.terminal-window-column {
+  background-color: #1D1D1D;
+  border-style: double;
+  border-color: white;
+
+  height: auto;
+  width: 55%;
+
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+}
+
+.journal-heading {
+  padding: 5vh;
+  color: white;
+  font-family: firacode, monospace;
+  font-size: 130%;
+}
+
 .post {
   font-family: firacode, monospace;
   font-size: 110%;
@@ -78,7 +136,7 @@ a {
 }
 
 .code {
-  font-family: firacode;
+  font-family: firacode, monospace;
   font-size: 100%;
   color: white;
   text-align: center;
