@@ -36,7 +36,13 @@ a {
   margin: auto;
 }
 
+.default {
+  font-family: firacode, monospace;
+  color: white;
+}
+
 .fira {
+  list-style-type: none;
   font-family: firacode, monospace;
   font-size: 11pt;
   color: white;
