@@ -88,17 +88,47 @@ a {
   margin: auto;
 }
 
+@media only screen and (max-width: 800px) {
+  .terminal-window-fixed {
+    flex-flow: column;
+    height: fit-content;
+  }
+}
+
 .sidebar {
   margin: 1vh 0.5vh 1vh 1vh;
   padding: 1vh;
-  background-color: #3B3B3B;
+  background-color: #1A1A1A;
   flex-grow: 1;
+  display: flex;
+  flex-flow: column;
+}
+
+.sidebar-top {
+  flex-grow: 3;
+}
+
+.buttons {
+  width: 40vh;
+  flex-basis: content;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+@media only screen and (max-width: 800px) {
+  .buttons {
+    width: 30vh;
+  }
+}
+
+.buttons>img {
+  padding: 1vh;
 }
 
 .main-content {
   margin: 1vh 1vh 1vh 0.5vh;
   padding: 1vh;
-  background-color: #3B3B3B;
+  background-color: #1A1A1A;
   flex-grow: 2;
 }
 
@@ -107,7 +137,7 @@ a {
   border-style: double;
   border-color: white;
 
-  height: auto;
+  height: fit-content;
   width: 55%;
 
   position: absolute;
