@@ -102,6 +102,7 @@ a {
 }
 
 .sidebar {
+  width: 25%;
   margin: 1vh 0.5vh 1vh 1vh;
   padding: 1vh;
   background-color: #1A1A1A;
@@ -112,6 +113,24 @@ a {
 
 .sidebar-top {
   flex-grow: 3;
+}
+
+#statuscafe {
+  font-family: fira-code, monospace;
+  padding: .5em;
+  background-color: #1F1F1F;
+  color: white;
+}
+
+#statuscafe-username {
+  font-family: fira-code, monospace;
+  margin-bottom: .5em;
+}
+
+#statuscafe-content {
+  color: white;
+  font-family: fira-code, monospace;
+  margin: 0 1em 0.5em 1em;
 }
 
 .buttons {
