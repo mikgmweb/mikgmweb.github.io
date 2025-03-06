@@ -1,0 +1,146 @@
+Q: vgmc lore?
+
+A: filipo, shota nakama, akash nakar, sean sincalir, qien hao all were there!
+
+Q: berklee experience?
+
+A: before berklee didn't have the language to communicate;
+   hyper-competitive atmosphere among performers, pivoted to EPD
+
+Q: talk about fez music; what makes chiptune feel chiptune?
+
+A: unfiltered waveforms, recontextualized those sounds to be more cinematic
+
+Q: hyper light drifter; what inspired you to make it the way it is?
+
+A: use piano to create a dichotomy. end of something is a great place to break rules
+
+Q: anything else about synths that draws you to them?
+
+A: expression; control over timbre is fun and highly expressive
+   played with nord modular synth software
+
+Q: january; speak
+
+A: game jam at MIT media lab, felt inspired to make something of his own
+   used flixl -- gradually built, getting more and more technical
+   if this note --> list of notes that work; highly probabilistic
+
+Q: helped with working on mini metro?
+
+A: went back to january, cleaned it up; people played it
+   mini metro devs wanted a procedural score!
+
+Q: how has your process evolved, particularly with paradise marsh?
+
+A: inspired by botw; phrase-based open world music
+   3 elements: pad bass keys; manipulate phrases in generative way
+   play with timing offset; transposition; reversal; FX
+
+Q: rhythm game time; different process?
+
+A: wife texted him, responded immediately
+   anyways, dont need to worry about motifs, have fun!
+   no strong external goal
+   worked on everhood: eternity edition
+
+R: past the ambition stage, maximizing time
+   solar ash was a grind
+
+Q: solar ash?
+
+A: worked more on audio systems -- learning unreal engine technical sound design
+
+Q: movies time; different process for movies?
+
+A: process is as different as you want it to be
+   "what do you think the game needs?"
+   dont be overly ambitious -- interactive music is hard to do well
+   write something BEFORE prototyping generative part
+   film is painting by numbers -- fill in music more statically
+   film is more freeing because you do more music writing than coding
+
+Q: how did you get here?
+
+A: say yes to EVERYTHING
+   make mistakes to understand what you like and dislike
+   try as many things as you can
+   pick your battles
+
+Q: writing standalone music; comparable to rhythm games?
+
+A: yes, learned that he worked better with a concept
+   writing music for yourself is not necessarily like that, blank page is too freeing
+   latch onto a given concept
+
+Q: genres, artists, other inspirations?
+
+A: chrono-cross, koji kondo, flowx
+   picked up different influences along the way
+   interested in many different genres throughout his career
+   bernard herman for orchestral music
+
+Q: circle back to berklee --> advice for what people should focus on?
+
+A: had a busy musical life outside of school
+   didnt integrate well with school life
+   focused more on message boards and solo artist life
+   connecting with like-minded people
+   boston 8-bit, other outside school things
+   used classes to experiment
+   berklee is notorious for having a "berklee sound"
+
+Q: worked with csound?
+
+A: no, messed with max a bit
+   they live outside the middleware
+   dependency issues
+
+Q: make a living just composing?
+
+A: possible, its a creative field, so play to your strengths
+   dabbled in a lot of stuff, music is what hes known for
+
+Q: website tags?
+
+A: tag cloud; tag posts with different tags and arrange them by size
+
+Q: how did you break in?
+
+A: played shows with boston 8-bit, one in montreal
+   devs for fez were there
+   compilation originally, wheedled down to just him
+
+   hyper light drifter -- did shows with a drummer/game dev
+   drummer was friends with alex hirsch/saw hld kickstarter
+   connected!
+
+Q: implementation: fmod or wwise?
+
+A: fmod, wwise is too brutalist
+   HATE middleware
+   solar ash -- only used unreal, lots of downsides but very fun!
+
+Q: creative blocks?
+
+A: heart machine; block had to do with interpersonal issues rather than work
+   accept that work might be shitty
+   breaking creative blocks: copely strategies from brian eno
+
+Q: it follows tech stack?
+
+A: mostly massive, from berklee bundle
+   massive x SUCKS
+
+Q: how did you get into live shows?
+
+A: met berklee people through synth lab at EPD
+   those people helped with boston 8-bit
+
+Q: favorite game?
+
+A: too hard. top 3: morrowwind if it wasnt janky, old sports games
+
+Q: favorite game soundtrack?
+
+A: chrono-cross, mashinarium, yoshi's island
