@@ -1,0 +1,14 @@
+<rss version="2.0">
+    <channel>
+        <title>mike's digest</title>
+        <description>a place where i periodically write various thoughts</description>
+        <link>https://mote.moe/blog/journal.html</link>
+		
+        <item>
+            <title>02-20-2025</title>
+            <link>https://mote.moe/blog/journal.html</link>
+            <guid>02202025</guid>
+            <pubDate>Mon 02 Feb 2025, 00:00:00 EST</pubDate>
+        </item>
+    </channel>
+</rss>

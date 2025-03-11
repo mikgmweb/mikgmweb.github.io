@@ -1,0 +1,65 @@
+@font-face {
+  font-family: firacode;
+  src: url(FiraCode-Medium.ttf);
+}
+
+a {
+  color: #6699CC;
+}
+
+main {
+  background-color: #1D1D1D;
+  border-style: double;
+  border-color: white;
+
+  height: fit-content;
+  width: 55%;
+
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: firacode;
+}
+
+h2 {
+  padding: 5vh;
+  color: white;
+  font-family: firacode, monospace;
+  font-size: 130%;
+}
+
+p {
+  font-family: firacode, monospace;
+  font-size: 110%;
+  color: white;
+  line-height: 2.0;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.code {
+  font-family: firacode, monospace;
+  font-size: 100%;
+  color: white;
+  text-align: center;
+  background: black;
+}
+
+.footnote {
+  font-family: firacode, monospace;
+  font-size: 80%;
+  color: white;
+  line-height: 2.0;
+}
+
+body {
+  background-color: #1D1D1D;
+}
