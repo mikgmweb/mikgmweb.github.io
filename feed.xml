@@ -1,8 +1,15 @@
 <rss version="2.0">
     <channel>
-        <title>mike's digest</title>
-        <description>a place where i periodically write various thoughts</description>
+        <title>mote</title>
+        <description>mike's online thought exhibition</description>
         <link>https://mote.moe/blog/journal.html</link>
+
+        <item>
+            <title>gitting gud</title>
+            <link>https://mote.moe/blog/03-10-2025.html</link>
+            <guid>03102025</guid>
+            <pubDate>Mon 10 Mar 2025, 21:30:00 EST</pubDate>
+        </item>
 
         <item>
             <title>disasterpeace berklee Q+A</title>
