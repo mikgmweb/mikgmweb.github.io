@@ -9,6 +9,19 @@
             <link>https://mote.moe/blog/03-10-2025.html</link>
             <guid>03102025</guid>
             <pubDate>Mon 10 Mar 2025, 21:30:00 EST</pubDate>
+            <content:encoded>
+              <h1 style="color:white; font-family:firacode;">gitting gud</h1>
+              <hr>
+              <h3 style="color:white; font-family:firacode;">writing</h3>
+              <p class="post">sometimes i really do just feel like writing. i don't really feel like i have much to write about sometimes, particularly in this moment, but it's nice to have a place to do so.</p>
+              <h3 class="default">that's what i'll write about!</h3>
+              <p class="post">having a personal website and taking the time to beef it up has been a pretty nice thing to look forward to. gone are the days of being clutched by how many likes i didn't get on my last tiktok. i still check in on tiktok from time to time using my partner as a conduit (whom i <a href="02-19-2025.html">talk</a> about <a href="12-23-2024.html">a lot</a> (i just wanted the opportunity to link my posts about her ^_^))... but i dont really miss it outside of the discussions and smiles it brings us on a fairly irregular basis<br>...<br>
+              anyways, i'm rambling a bit. the reason i write today is because im starting to truly feel the effects of being a normal person. school is going remarkably well – with me finding a passion i want to pursue more than video game sound design – my social life isn't completely awful, and i have a bunch of fun trips lined up!
+              i believe that as i get better at the things i do, i feel more supported by those around me because i am actively showing off what i can do. this is a novel thing to me! when i started college, i thought i was gonna end up composing or doing live shows, but that wasn't my groove. now that i've found it (my groove) i truly feel like i contribute to the people around me. <br>...<br>
+              on that note, i haven't teared up in a while... okay i'm lying. i've been playing the witness a bit and did NOT expect to be HIT by a FREIGHT train (don't worry, this is related). there's a woman who talks about the concept of aspiration and desire being a fundamental part of a person's sense of self, and how that's sometimes stunting to a person's happiness. i think that i don't need to tell myself what i want to do anymore, i just do it, which i why i've been feeling a lot better lately. don't get me wrong – i still have a LOT of work to do on myself,
+              but i think i'm getting to one of the best places i've been in my life (fingers crossed, knock on wood, salt over the shoulder, PLEASE beam luck to me). <br>...<br>
+              anyways (again), i'm just about done here. if you're still reading, id recommend you check out my <a href="../feed.xml">rss feed for this blog</a>. thank you for passing through, and i hope to see you in the next one, he shouts into the void.</p>
+            </content:encoded>
         </item>
 
         <item>
@@ -16,20 +29,207 @@
             <link>https://mote.moe/blog/disasterpeace_QA.html</link>
             <guid>03062025</guid>
             <pubDate>Thu 06 Mar 2025, 00:00:00 EST</pubDate>
+            <content:encoded>
+              
+                <h1 style="color:white; font-family:firacode;">disasterpeace berklee Q+A</h1>
+                <hr>
+                <p class="post">
+              i had the privilege of being able to attend a Q+A with <a href="https://disasterpeace.com/#">rich vreeland [disasterpeace]</a> at berklee's <a href="https://www.instagram.com/berkleevgmc/">video game music club</a> (opens instagram). the interview was conducted primarily by the president of the club, with a public Q+A section near the end. last thing: a disclaimer! i *heavily* paraphrased everything and these exist more as highly condensed (arguably low quality) notes, hence the "mote cut." i cannot take notes at the speed of conversation, unfortunately. anyways, here are my notes!<br><br>
+              Q: vgmc lore?<br>
+              <br>
+              A: filipo, shota nakama, akash nakar, sean sincalir, qien hao all were there!<br>
+              <br>
+              Q: berklee experience?<br>
+              <br>
+              A: before berklee didn't have the language to communicate;<br>
+                 hyper-competitive atmosphere among performers, pivoted to EPD<br>
+              <br>
+              Q: talk about fez music; what makes chiptune feel chiptune?<br>
+              <br>
+              A: unfiltered waveforms, recontextualized those sounds to be more cinematic<br>
+              <br>
+              Q: hyper light drifter; what inspired you to make it the way it is?<br>
+              <br>
+              A: use piano to create a dichotomy. end of something is a great place to break rules<br>
+              <br>
+              Q: anything else about synths that draws you to them?<br>
+              <br>
+              A: expression; control over timbre is fun and highly expressive<br>
+                 played with nord modular synth software<br>
+              <br>
+              Q: january; speak<br>
+              <br>
+              A: game jam at MIT media lab, felt inspired to make something of his own<br>
+                 used flixl -- gradually built, getting more and more technical<br>
+                 if this note --> list of notes that work; highly probabilistic<br>
+              <br>
+              Q: helped with working on mini metro?<br>
+              <br>
+              A: went back to january, cleaned it up; people played it<br>
+                 mini metro devs wanted a procedural score!<br>
+              <br>
+              Q: how has your process evolved, particularly with paradise marsh?<br>
+              <br>
+              A: inspired by botw; phrase-based open world music<br>
+                 3 elements: pad bass keys; manipulate phrases in generative way<br>
+                 play with timing offset; transposition; reversal; FX<br>
+              <br>
+              Q: rhythm game time; different process?<br>
+              <br>
+              A: wife texted him, responded immediately<br>
+                 anyways, dont need to worry about motifs, have fun!<br>
+                 no strong external goal<br>
+                 worked on everhood: eternity edition<br>
+              <br>
+              R: past the ambition stage, maximizing time<br>
+                 solar ash was a grind<br>
+              <br>
+              Q: solar ash?<br>
+              <br>
+              A: worked more on audio systems -- learning unreal engine technical sound design<br>
+              <br>
+              Q: movies time; different process for movies?<br>
+              <br>
+              A: process is as different as you want it to be<br>
+                 "what do you think the game needs?"<br>
+                 dont be overly ambitious -- interactive music is hard to do well<br>
+                 write something BEFORE prototyping generative part<br>
+                 film is painting by numbers -- fill in music more statically<br>
+                 film is more freeing because you do more music writing than coding<br>
+              <br>
+              Q: how did you get here?<br>
+              <br>
+              A: say yes to EVERYTHING<br>
+                 make mistakes to understand what you like and dislike<br>
+                 try as many things as you can<br>
+                 pick your battles<br>
+              <br>
+              Q: writing standalone music; comparable to rhythm games?<br>
+              <br>
+              A: yes, learned that he worked better with a concept<br>
+                 writing music for yourself is not necessarily like that, blank page is too freeing<br>
+                 latch onto a given concept<br>
+              <br>
+              Q: genres, artists, other inspirations?<br>
+              <br>
+              A: chrono-cross, koji kondo, flowx<br>
+                 picked up different influences along the way<br>
+                 interested in many different genres throughout his career<br>
+                 bernard herman for orchestral music<br>
+              <br>
+              Q: circle back to berklee --> advice for what people should focus on?<br>
+              <br>
+              A: had a busy musical life outside of school<br>
+                 didnt integrate well with school life<br>
+                 focused more on message boards and solo artist life<br>
+                 connecting with like-minded people<br>
+                 boston 8-bit, other outside school things<br>
+                 used classes to experiment<br>
+                 berklee is notorious for having a "berklee sound"<br>
+              <br>
+              </p>
+              
+              <h1 style="color:white; font-family:fira-code, monospace;">PUBLIC Q+A</h1>
+              <p class="post">
+              Q: worked with csound?<br>
+              <br>
+              A: no, messed with max a bit<br>
+                 they live outside the middleware<br>
+                 dependency issues<br>
+              <br>
+              Q: make a living just composing?<br>
+              <br>
+              A: possible, its a creative field, so play to your strengths<br>
+                 dabbled in a lot of stuff, music is what hes known for<br>
+              <br>
+              Q: website tags?<br>
+              <br>
+              A: tag cloud; tag posts with different tags and arrange them by size<br>
+              <br>
+              Q: how did you break in?<br>
+              <br>
+              A: played shows with boston 8-bit, one in montreal<br>
+                 devs for fez were there<br>
+                 compilation originally, wheedled down to just him<br>
+              <br>
+                 hyper light drifter -- did shows with a drummer/game dev<br>
+                 drummer was friends with alex hirsch/saw hld kickstarter<br>
+                 connected!<br>
+              <br>
+              Q: implementation: fmod or wwise?<br>
+              <br>
+              A: fmod, wwise is too brutalist<br>
+                 HATE middleware<br>
+                 solar ash -- only used unreal, lots of downsides but very fun!<br>
+              <br>
+              Q: creative blocks?<br>
+              <br>
+              A: heart machine; block had to do with interpersonal issues rather than work<br>
+                 accept that work might be shitty<br>
+                 breaking creative blocks: copely strategies from brian eno<br>
+              <br>
+              Q: it follows tech stack?<br>
+              <br>
+              A: mostly massive, from berklee bundle<br>
+                 massive x SUCKS<br>
+              <br>
+              Q: how did you get into live shows?<br>
+              <br>
+              A: met berklee people through synth lab at EPD<br>
+                 those people helped with boston 8-bit<br>
+              <br>
+              Q: favorite game?<br>
+              <br>
+              A: too hard. top 3: morrowwind if it wasnt janky, old sports games<br>
+              <br>
+              Q: favorite game soundtrack?<br>
+              <br>
+              A: chrono-cross, mashinarium, yoshi's island<br>
+                </p>
+            </content:encoded>
         </item>
 
         <item>
             <title>2 year anniversary</title>
-            <link>https://mote.moe/blog/02-19-2025</link>
+            <link>https://mote.moe/blog/02-19-2025.html</link>
             <guid>02192025</guid>
             <pubDate>Wed 19 Feb 2025, 00:00:00 EST</pubDate>
+            <content:encoded>
+              <h1 style="color:white; font-family:firacode;">2 year anniversary</h1>
+              <h1 style="color:white; font-family:firacode;">this page is not formatted for mobile. use a computer for the best experience.</h1>
+              <hr>
+              <h1 style="text-align:center; font-family:firacode;"><a href="https://mote.moe/blog/special/2yr/begin/begin.html">begin</a></h1>
+            </content:encoded>
         </item>
 
         <item>
             <title>denver trip</title>
-            <link>https://mote.moe/blog/12-23-2024</link>
+            <link>https://mote.moe/blog/12-23-2024.html</link>
             <guid>12232024</guid>
             <pubDate>Mon 23 Dec 2024, 00:00:00 EST</pubDate>
+            <content:encoded>
+              <h1 style="color:white; font-family:firacode;">denver trip</h1>
+              <hr>
+              <p class="post">i went to denver with my wonderful partner to meet up with her family for thanksgiving. it was a great
+                time. my spanish has gotten markedly better than the last time i went. honestly i feel like the practice i've gotten
+                through my job is really one of the only good things it has brought me. spanish has given me a pretty rough go of
+                it – rather i've made it rough for myself by not practicing!!! it's nice to observe that hard work paying off.</p>
+              <p class="post">...</p>
+              <p class="post">aside from being immersed in the language, i was as immersed in her culture as i feel i've been since
+                we started dating. i loved every second of it. i think my further immersion is a result of both having established
+                myself as her partner simply through the passage of time and also being able to communicate things a little better
+                in her family's native language (i'll try to stop talking about languages now, i just get so excited!)</p>
+              <p class="post">...</p>
+              <p class="post">anyways, the trip was a lot of fun. we visited a few carnicerías and panaderías to great success. i
+                wish i could find some butchers around boston to get more cuts of meat than what i'm used to. she actually made
+                pozole recently and we have some pig shoulder left over, so maybe i'll try to find a recipe for it and experiment.
+              </p>
+              <p class="post">...</p>
+              <p class="post">a shorter post, but a helpful one nonetheless. it's nice to reflect on things that happen in my life
+                because it puts into perspective just how grateful i am for certain things; in this case, having such an intimate relationship with someone outside
+                my own culture. i truly value the perspective that i gain and the awesome things i learn. here's to another
+                9999999999999999999 years together!</p>
+            </content:encoded>
         </item>
 		
         <item>
@@ -37,6 +237,71 @@
             <link>https://mote.moe/blog/12-04-2024</link>
             <guid>12042024</guid>
             <pubDate>Wed 04 Dec 2024, 00:00:00 EST</pubDate>
+            <content:encoded>
+              <h1 style="color:white; font-family:firacode;">mike monthly november</h1>
+              <hr>
+              <p class="post">better late than never!</p>
+              <p class="post">...</p>
+              <p class="post">this month was full of grindy stuff. not many new things to say, but i have a feeling next month is
+                gonna go way harder. if you want an
+                outline of how this is laid out and why, see <a href="11-04-2024.html">my post for october</a>.
+                without further ado, lets get into it</p>
+              <p class="post"><a href="#social">social</a></p>
+              <p class="post">my social life and all of its factors</p>
+              <p class="post"><a href="#aspirations">aspirations</a></p>
+              <p class="post">my journey with things that i try to do in my free time to help set myself up better for success</p>
+              <p class="post"><a href="#the grind">the grind</a></p>
+              <p class="post">my current working life</p>
+              <h3 style="color:white; font-family:firacode;" id="social">social</h3>
+              <p class="post">november was an uninteresting month socially. i didn't really have too much time to hang out with
+                friends
+                because of various projects i had to work on for school, as well as some things that'll be outlined in the
+                grind.</p>
+              <p class="post">though few, i did hang out with a few friends here and there on various nights. one of the more
+                notable ones
+                was actually with my partner's friend. we organized our storage area with her then went out on the town, not
+                before picking up her car since it got towed. i was pretty surprised because i didn't really expect that to
+                happen, though it makes sense in retrospect considering she parked right near the path the towing company patrol
+                truck (no idea what these guys are called) usually takes. all else aside, it was a nice reprieve from midterms.
+              </p>
+              <p class="post">one of my biggest goals for next year is to get more out of my friendships by making a conscious
+                effort to do
+                so. i'm not that good at planning things out at the moment, but i hope to get better.</p>
+              <h3 style="color:white; font-family:firacode;" id="aspirations">aspirations</h3>
+              <p class="post">the main thing i really had to worry about was a project in my mixing class where i had 4 weeks to do
+                ALL of
+                the audio for a scene from a movie. i chose the kung fu fight scene in the matrix. it ended up being pretty fun,
+                though i wish i hadn't put it off 'til the last minute. i know i'm not alone in that sentiment, since my
+                classmates did the same thing, but i still don't think its a good idea for me to do that. a lot of my growth
+                thus far has been breaking those habits to a certain extent. if i were assigned this project a year ago, i
+                would've waited until 3 days before it was do to <em>start</em>.</p>
+              <p class="post">aside from that, i've just been slowly chipping away at my sound design reel. i hope to apply to <a
+                  href="https://www.riotgames.com/en">riot games</a> at some point soon since they have a summer internship
+                opportunity open at the moment. i plan to truly finish my reel while im alone in our apartment this month.
+                you'll have to hear about how that goes in the next monthly post!</p>
+              <p class="post">another thing that's been on my mind is whether or not i should take a gap semester this coming
+                semester. i
+                think it would be good to use that opportunity to work and save up a ton of money, given my position at saltie
+                girl. i'd also be able to take some time off of school to reflect on my own creativity a little, which has been
+                troubling me lately. i find it difficult to get into the flow of things when i have a million different things
+                going on.</p>
+              <p class="post">my main argument for taking a gap is that i'd be able to save up some rent money and not be working
+                during the
+                semester, which is what has been killing me lately. however, it feels like a pretty big decision. i'm gonna talk
+                it over with my closest people first. if you're reading this and you have my contact info, feel free to tell me
+                what <em>you</em> think. i need all the input i can get.*</p>
+              <p class="footnote">*when i make decisions i usually try to apply some degree of "bayesian" logic, which is the only
+                useful concept
+                that has come from <a href="https://www.lesswrong.com/">lesswrong</a> to me</p>
+              <h3 style="color:white; font-family:firacode;" id="the grind">the grind</h3>
+              <p class="post">as you can imagine based on the previous section, work has been giving me some cognitive trouble. i'm
+                currently
+                training to become a server, but things are going slowly due to staff shortages. while upsetting, the situation
+                is somewhat of a blessing because finals are soon approaching. i've made more friends there as well, having
+                improved my reputation somewhat (at least in my own head).</p>
+              <p class="post">...</p>
+              <p class="post"> that's it! see you next month!</p>
+            </content:encoded>
         </item>
 
         <item>
@@ -44,6 +309,44 @@
             <link>https://mote.moe/blog/11-04-2024</link>
             <guid>11042024</guid>
             <pubDate>Mon 04 Nov 2024, 00:00:00 EST</pubDate>
+            <content:encoded>
+           <h1 style="color:white; font-family:firacode;">mike monthly - october</h1>
+           <hr>
+           <div>
+               <p class="post">i find it tough to keep track of events that occur in my life since things move kind of quickly what with work and school and all. right now i'm working ~30 hours a week on top of a 17 credit semester on TOP of the normal life stuff people have to do. my partner has been a massive help in helping me navigate my own self-sustainability and personal development. i really think i would've burned out by now if it wasn't for her.<br><br>
+               anyways, i want to start doing these monthly recaps for a couple reasons. for one, i want to post here more, since i think its pretty barren. i read <a href="https://wwinks.com/">westley winks'</a> interview on <a href="https://manuelmoreale.com/pb-westley-winks">people and blogs</a> recently. he mentioned something <a href="https://gilest.org/">giles turnbull</a> said about a blog being "your brain, over time, on the internet." i think the simple act of posting more will make this place into something more of a reflection of my time on earth. the way i see it, i'm taking pictures of how i think, write, and feel and making a digital scrapbook from all of that.<br><br>
+               alright, preamble over
+               <br><br>
+               ...</p>
+               <p class="post">i think it'll be nice to separate things into three sections for readability and also so i actually get this post written. those sections are:<br><br>
+               <strong><a href="#social">social</a></strong><br><br>
+               <em>pretty self explanatory. i'm really weird when it comes to social stuff and i think about it a LOT, so i'm gonna make a place for me to put all of those thoughts.</em><br><br>
+               <strong><a href="#aspirations">aspirations</a></strong><br><br>
+               <em>i have some dreams! this is gonna be the progress of those. hopefully in a couple years this section will be combined with the next one.</em><br><br>
+               <strong><a href="#the-grind">the grind</a></strong><br><br>
+               <em>i need to make money, so i go to work. i don't like to view my time spent at work as purely drone time though because that makes me sad. i'm gonna detail the goings ons there... here.</em><br>...</p>
+               
+               <h3 style="color:white; font-family:firacode;" id="social">social</h3>
+               <p class="post">i've been spending a lot more time with friends that i regretted not spending time with in years passed. i went to my friend <a href="https://www.instagram.com/itsdeanam/">dean's</a>(instagram // <a href="https://www.facebook.com/privacy/policy/">why disclose?</a>) show with the <a href="https://www.instagram.com/theharrystylesensemble/">berklee harry styles ensemble</a>(instagram). it was a mind-blowing performance. some of the things that were interesting were: a horn section, including a couple solos; a string quartet for one of my partner's <a href="https://music.apple.com/us/album/sign-of-the-times/1226034336?i=1226034393">favorite songs</a>(apple music); and a mashup of watermelon sugar and adore you with a switching duet-style vocal performance*. when i say this shit was crazy i mean it. i'm not a huge harry styles fan and i didn't know many of the songs, but i still enjoyed the show all the same. i bring this up because afterwards we hung out for the first time in a while. it was very nice to talk again, catch up, all that jazz.</p>
+               <p class="footnote"><em>*rapid fire: vocal percussion solo, ballerina (???), wild expressivity, super tight and well executed choreo, etc.</em></p>
+               <p class="post">that's one of the biggest things of my friends' that i went to this month, though many of my compatriots certainly have <a href="http://www.sleepyhollowpd.info/">more to offer</a> and <a href="https://www.instagram.com/nesynthfest/">more to come</a>(instagram).</p>
+               <h3 style="color:white; font-family:firacode;" id="aspirations">aspirations</h3>
+               <p class="post">i had a very enlightening meeting with one of my professors, <a href="https://college.berklee.edu/people/jean-luc-cohen">jean-luc</a>. we talked about what needs to be done in order to have a successful application for a games sound design internship, with all the deadlines coming up next month. he also opened my mind to the concept of technical sound design. he mentioned that there aren't many at berklee that have pursued that path and that they make about as much money as a programmer or director at the senior level.</p>
+               <p class="post">this was all very inspirational, so i begun work on my reel. i have 2 clips done so far and i plan to do 5. i'll probably post it here with some session reports when i'm done.</p>
+               <p class="post">all of my sound design stuff has been going pretty well. i left <a href="https://smilleyhasawebsite.com/">live music</a> behind to a certain extent. i think that was all a very good decision considering i'm able to have more time to develop my chops as a designer. 
+               ...
+               as far as school itself, though, midterms were this month. they were hard. i had one major one in my <a href="https://cycling74.com/products/max">max/msp</a> class where i had to design an instrument, learn to play it, then develop repertoire for it all in the span of 3 weeks. it was a great time. i'm not really coming around to max like i thought i would, though. i think the graphical side of it is sort of what kills me. i'd prefer to be typing, though i don't exactly know how the same flows would be integrated in an easy-to-keep-track-of way.</p>
+               <p class="post">my other midterms were deceptively difficult. i ended up being stopped midway through my conducting midterm and immediately given an A. that was pretty representative of how most of my core class midterms went.</p>
+               <p class="post">this month was great for the development of my aspirations. i look forward to another of the same kind.</p>
+               <h3 style="color:white; font-family:firacode;" id="the-grind">the grind</h3>
+               <p class="post">i work as a runner/busser in an <a href="https://www.saltiegirl.com/">upscale restaurant</a> in back bay. it's pretty stressful, but i love the fast pace of my job. i also make a LOT of money and there arent many places that can allow me to be in the place that i am in the same way.<br><br>
+               i've been conflicted this month since i'm gunning for a promotion to be a server, at which point i'd be making ~$100k a year, which is absolutely insane for my age. the thing that makes me conflicted, though, is that i'd have to sacrifice a good amount of time for this goal. thinking about it a little, i think it might not be too bad an idea to be a server for a couple months, then find some place that will allow for a more flexible schedule... but its also a LOT of money.<br><br>
+               i did the math a little, and i would have ~$46,000 by the time i enter my final semester at berklee, if i continue to live within my means, that is. i think realistically i could blow $10k of that <em>easily</em> on stuff i (probably) don't need that badly. EVEN AFTER THAT, id be left with THIRTY SIX THOUSAND DOLLARS, provided i make the average tips a server typically makes there.<br><br>
+               that would be <em>more</em> than enough to get my life started with my partner wherever we end up going. having that security would allow me to solely focus on school and job applications for my final semester, which would be a luxury i don't want to pass up.<br><br>
+               the primary caveat of my plan, though, is that it requires a great deal of patience. i consider myself to be a <em>somewhat</em> patient person, though i have my pitfalls like all others. i think if i lock the hell in and get all of that done, i'll be in good shape. all i can do is hope.<br><br></p>
+               <h3 style="color:white; font-family:firacode;" id="end">end</h3>
+               <p class="post">organizing these three things like this has made me look at my life in a more disconnected way, which helps a lot of the time since it can provide new perspective. october was pretty crazy work-wise, but i think the "worst" of it is over. november shows promise to be a somewhat less stressful month, though we'll see how things unfold.</p>
+             </content:encoded>
         </item>
 
         <item>
@@ -51,6 +354,28 @@
             <link>https://mote.moe/blog/09-04-2024</link>
             <guid>09042024</guid>
             <pubDate>Mon 09 Sep 2024, 00:00:00 EST</pubDate>
+            <content:encoded>
+              <h1 style="color:white; font-family:firacode;">power underneath despair</h1>
+              <h2 style="color:white; font-family:firacode;">TW: SUICIDE</h2>
+              <hr>
+              <div>
+              <p style="color:white" class="post">looking down at the ground from a great height, i wonder why it is that i don't jump. <br><br> 
+                  
+                  it could be pride, fear, love, anything – but not a rational decision to leave, at least for me. <br><br>
+              
+              
+              i think back just a few years to when i stood on a chair waiting to kick it away and watch it all fade to black. but i didnt. i'm still here and everyone around me gets to deal with me... and theres not much they can do about it.<br><br>
+              at my most beaten and broken, i still kept going. i kept moving. something got that cord away from me and got me safely down from that chair. i now look back on with pride and happiness. pride and happiness that i found that strength in such adversity. there's something truly awesome about getting up, dusting the fuck off, and getting back to it. <br>...<br>
+              i could lament forever about the event, thinking my own head into mush about how i escaped such a near-death experience by my own hand (one i also put myself in by my own hand), but instead what i want to talk about is why exactly i got down from that chair in that moment. <br><br>
+               lets cut to the chase: the thing that gave me power was not something. im sorry to disappoint if that was something you were looking for. instead, i think something much more weird and trippy and ephemeral got me down that existed within my own mind. <br> having been a stinky gross reddit user in my high school days, i have read many a tale and many a meme about "my dog wouldnt understand" or "mom would be sad" etc etc. these are not the things that saved me.* </p>
+              </div>
+              <p style="color:white" class="footnote">*tangent: just because these things didnt save me doesnt mean that simple things cant save someone from such a dark place! any reason for living is valid as long as it keeps you breathing and keeps you happy!<br></p>
+              <p style="color:white" class="post"><br>instead, the ephemeral thing (yes i like that word) im talking about is the thing that saved me. to this day, i dont know what it was. obviously i rationalized it many times in the weeks, months... and years... following. maybe it WAS my dog, or my mom, or instinct, or i thought it wouldnt work, or i was too scared – it doesnt matter because none of that is the truth. <br><br> 
+              the TRUTH is that i dont know what gave me the strength to go on, but im not scared of not knowing anymore. im not scared of losing that strength. im not scared of trying to kill myself again. <br><br>
+              only recently have i truly been able to accept my experience as an experience i had, and one that i fucking spat in the face of. because i lived, bitch, and i get to experience the world now. i get to live my life to fullest extent that i can live it, and im going to work as hard as i can to make my life the best one i can live. because i deserve it. everyone deserves it. <br><br>
+              my life is mine to live now. i will never try to take it from myself again. i know now what i have after many years of turmoil and hiding. <br><br>
+              i will not quit that easily. </p>
+            </content:encoded>
         </item>
     </channel>
 </rss>
