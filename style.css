@@ -60,6 +60,8 @@ a {
   border-style: double;
   border-color: white;
 
+  display: grid;
+  place-items: center;
   height: fit-content;
   width: fit-content;
 
@@ -81,6 +83,7 @@ a {
 
   display: flex;
   justify-content: center;
+  flex-direction: row;
 
   height: 75%;
   width: 75%;
@@ -97,22 +100,26 @@ a {
 @media only screen and (max-width: 800px) {
   .terminal-window-fixed {
     flex-flow: column;
-    height: fit-content;
+    height: 100%;
+    overflow: scroll;
   }
 }
 
 .sidebar {
-  width: 25%;
-  margin: 1vh 0.5vh 1vh 1vh;
-  padding: 1vh;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  margin: 1% 0.5% 1% 1%;
+  padding: 1%;
   background-color: #1A1A1A;
   flex-grow: 1;
-  display: flex;
-  flex-flow: column;
+  overflow-y: scroll;
+  overflow-x: visible;
 }
 
 .sidebar-top {
   flex-grow: 3;
+  width: fit-content;
 }
 
 #statuscafe {
@@ -134,10 +141,11 @@ a {
 }
 
 .buttons {
-  width: 40vh;
+  width: fit-content;
   flex-basis: content;
   display: flex;
   flex-flow: row wrap;
+  position-anchor: bottom;
 }
 
 @media only screen and (max-width: 800px) {
@@ -154,6 +162,16 @@ a {
   margin: 1vh 1vh 1vh 0.5vh;
   padding: 1vh;
   background-color: #1A1A1A;
+  flex-grow: 1;
+  overflow: scroll;
+}
+
+.main-content-pro {
+  display: flex;
+  flex-direction: row;
+  margin: 1vh 1vh 1vh 0.5vh;
+  padding: 1vh;
+  background-color: #1A1A1A;
   flex-grow: 2;
   overflow: scroll;
 }
@@ -165,6 +183,7 @@ a {
 
   height: fit-content;
   width: 55%;
+  flex-direction: row;
 
   top: 0;
   bottom: 0;
@@ -207,4 +226,8 @@ a {
 
 body {
   background-color: #1D1D1D;
+}
+
+ul {
+  list-style-type: none;
 }
