@@ -45,12 +45,14 @@ p {
   margin-right: 3%;
 }
 
-.code {
+pre {
   font-family: firacode, monospace;
+  margin: 1% 5% 1% 5%;
   font-size: 100%;
   color: white;
-  text-align: center;
+  text-align: left;
   background: black;
+  border: thin;
 }
 
 .footnote {

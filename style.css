@@ -169,6 +169,7 @@ a {
 .main-content-pro {
   display: flex;
   flex-direction: row;
+  justify-content: space-evenly;
   margin: 1vh 1vh 1vh 0.5vh;
   padding: 1vh;
   background-color: #1A1A1A;
@@ -230,4 +231,5 @@ body {
 
 ul {
   list-style-type: none;
+  padding: 0;
 }

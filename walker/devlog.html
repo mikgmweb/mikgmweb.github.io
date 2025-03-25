@@ -1,36 +1,138 @@
 <!DOCTYPE HTML>
-<html lang = "en">
+<html lang="en">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>blog</title>
-<link rel="shortcut icon" type = "img/png" href="img/turn.png">
-<link rel = "Stylesheet" href = "../style.css">
-<script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.js"></script>
-<script src="../scripts/G4P5js/public_html/G4P5js.js"></script>
-<script src="../scripts/superformula.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TITLE</title>
+  <link rel="Stylesheet" href="../journal.css">
 </head>
-<body style="margin:0; background:black;">
-    <div id='super' style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); z-index:-999;"></div>
-    <a href="../blog.html"><h3 class="back">take me back!</h3></a>
-  <div style="width:fit-content; height:550px; top:0; bottom:0; left:0; right:0; margin:auto;"><h1 class="default" style="margin-top:0; margin-bottom:0; margin-left:0; margin-right:0; font-size:xxx-large;">walker</h1></div>
-    <div class="terminal-window-fixed" style="background:none; border:none; flex-direction:column;">
-        <nav style="text-align:center;">
-            <p class="fira">
-                <a href="">devlog</a>
-                <a href="walker.html">home</a>            
-                <a href="">overview</a>
-            </p>
-        </nav>
-        <div class="main-content" style="background:none; display:flex; flex-direction:column;">
-            <h1 class="default" style="flex-grow:4;">bend</h1>
-            <p class="default" style="flex-grow:1">timbral expression unlike any synth</p>
-            <h1 class="default" style="text-align:right; flex-grow:4;">glide</h1>
-            <p class="default" style="text-align:right; flex-grow:1">unique note control inspired by the ondes martenot</p>
-            <h1 class="default" style="flex-grow:4;">vocalize</h1>
-            <p class="default" style="flex-grow:1">digital screaming, singing, and weeping</p>
-            <h3 class="default" style="text-align:center;"><a href="">see more</a></h3>
-        </div>
-    </div>
-</body>
+
+<main>
+  <h1>walker development log</h1>
+
+  <article>
+    <h2>13-03-2025</h2>
+    <pre>
+first prototype made!
+see <a href="releases.html">releases page</a>
+    </pre>
+  </article> 
+
+  <article>
+    <h2>06-03-2025</h2>
+    <pre>
+at-a-glance
+  made box layout  
+  bought a bunch of tools
+  debugged ribbon controller
+  sped up boot time to ~15 seconds
+
+in-depth
+
+made box layout
+  used a panel of cardboard to lay out all the knobs and sliders temporarily
+
+bought a bunch of tools
+  got some snips to cut sheet metal, as well as some drill bits to drill holes 
+  in the chassis
+
+debugged ribbon controller
+  made it so the top range of the controller does not activate notes
+
+sped up boot time to ~15 seconds
+  removed some unnecessary boot tasks on the raspberry pi to get the boot time
+  to a (consistent) ~15 seconds  
+    </pre>
+  </article> 
+
+  <article>
+    <h2>20-02-2025</h2>
+    <pre>
+at-a-glance:
+  ordered HAT for raspi, chassis, and knobs/sliders
+  created CAD model of lid
+  got arduino to use hardware and had arduino control synth
+
+in depth:
+
+hardware and control
+  breadboarded pots and switches to control parameters. i spent a longer time 
+figuring out the most reactive parameters to which i mapped each control 
+apparatus than actually doing the mapping. i found it to be pretty tough to define 
+exactly how the sound changed. obviously i knew what was going on, which actually 
+hindered my ability to describe things. for this reason, i asked my partner to help 
+me define what parameters the different pots and switches changed. she provided 
+a better perspective than i could regarding the naming of parameters. i could 
+name things after the math that was going on, but i think that won't serve the 
+experience of actually using the instrument.
+
+orders
+  found a pretty barebones HAT for audio on a raspberry pi 3B. it essentially maps
+the two PWM pins on the GPIO of the pi to two mono channels. all i'd have to do is
+wire each pole to a TS output.
+  chose a couple (nice) knobs and sliders to spruce up the feel of everything. i 
+have a marshall code 100H that i like to use and i've always been a fan of the 
+metal knobs. smallbear happens to sell knobs in that marshall style!
+  bought an aluminum chassis from hammond manufacturing. for prototyping layouts, i
+have a couple cardboard boxes that i can use as the lid temporarily. eventually, 
+i'd like to have it machined or find some kind of tool to get it done. a set of 
+shears would work, though it'd be pretty hard. hammond have a lot of chassis that 
+look great for some synths!
+
+CAD model
+  i made a model in blender (not great for CAD) to potentially get a lid machined 
+or otherwise obtain a custom enclosure. upon getting some quotes, it will be 
+cheaper to cut apart the chassis i ordered myself. the CAD model will be helpful 
+while planning, nonetheless.
+
+further steps
+  all that's left is to get a raspberry pi to run csound and get it to output into
+two TS jacks. after that, its a matter of assembling everything, and the instrument 
+is done!
+    </pre>
+  </article> 
+
+  <article>
+    <h2>06-02-2025</h2>
+    <pre>
+at-a-glance:
+  sparkfun shipment was late!
+  set up communication between arduino and csound
+  made new roadmap (re-uploaded)
+
+in depth:
+
+new roadmap
+  upon your feedback and my setup of communication with csound, i came to the 
+realization that it would be better for me to focus on building the instrument
+and locking everything down on that front before using it to compose a piece.
+  in the meantime, i created a new roadmap. everything is as would be expected
+for the development of an instrument like this. one thing i think is worth 
+mentioning is that i've allowed myself 2 weeks before the final presentation 
+of the instrument to both learn it and debug whatever might be going wrong.
+
+communication between arduino and csound
+  i set up a potentiometer that provides values to csound via the arduino serial
+protocol included within csound. it took a while because i had to learn about
+binary operators in C for the first time. very fun!
+  i used a potentiometer because the pressure strip will indeed be a potentiometer.
+the next step will be to get all of the inputs from each of my components working
+to control csound.
+
+    </pre>
+  </article>
+
+  <article>
+    <h2>30-01-2025</h2>
+    <pre>
+midi controller design
+  i've decided to go with a 200mm ribbon potentiometer as the main note input. in
+addition, ive decided to add 3 sliding pots for the n1, n2, and n3 parameters of 
+the superformula, one 10 position rotary switch for the m1 parameter, and 2 more 
+rotary pots for the center position of the superformula on the terrain. 
+    </pre>
+  </article>
+</main>
+
 </html>
