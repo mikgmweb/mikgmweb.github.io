@@ -177,6 +177,12 @@ a {
   overflow: scroll;
 }
 
+@media only screen and (max-width: 800px) {
+  .main-content-pro {
+    flex-direction: column;
+  }
+}
+
 .terminal-window-column {
   background-color: #1D1D1D;
   border-style: double;
