@@ -6,16 +6,57 @@
         <link>https://mote.moe/blog</link>
 
         <item>
+            <title>keep it in your brain</title>
+            <link>https://mote.moe/blog/04-05-2025.html</link>
+            <guid isPermaLink="true">https://mote.moe/blog/04-05-2025.html</guid>
+            <pubDate>Sat, 05 April 2025 15:30:00 EST</pubDate>
+            <description><![CDATA[
+                <h1 style="color:white; font-family:firacode, monospace;">
+                keep it in your brain
+                </h1>
+                <hr>
+                <h3 style="color:white; font-family:firacode, monospace;">
+              phone bad
+                </h3>
+                <p class="post">
+              you heard it here first folks, social media bad and phone bad and convenience bad. i'm not going to waste your time with why here, but there was a great <a href="https://vhbelvadi.com/indieweb-carnival-roundup-2025">indieweb carnival about friction</a> that you can check out if you'd like to understand more about the general philosophy.<br>...<br>as i've gotten further into my adult life, i've realized that a lot of a person's success with building and breaking habits comes with how they design their usage of tools. many people allow tools to be designed for them -- there's nothing wrong with that at all. my personal preference is to try to make everything around me fit me as a person, but also help mold me into the person i want to be. this will always be a battle i am fighting, but that isn't such a bad thing in my mind. i enjoy trying to work some aspect of design into every part of my life. <br>anyways, lemme get to my point: using your brain makes it better. my impetus for writing this post came about when i was using the terminal to update my <a href="https://mote.moe/walker">walker</a> page. i realized after i got into the folder that i didn't need to list the files in the folder, i just knew what was in there. back when i used finder or file explorer primarily, i would simply read the contents of a given folder, since that's the most convenient option of information retrieval in that application. i didn't <em>have</em> to remember, i could just read. it resulted in me having "file cleaning" days where i would sit for several hours and go through all the files in various folders in order to free up space on my drive. as i use the terminal for file management more, those days move further and further behind me.
+                </p>
+                <h3 style="color:white; font-family:firacode, monospace;">
+              further examples: youtube on jellyfin
+                </h3>
+                <p class="post">
+              in addition to my file management skills, i think designing frictionful methods of doing things has improved my content consumption as well. <br>i am a zoomer (im not even old enough to drink in the US). my content consumption was similar to that of my generational peers: scrolling some kind of social media, getting addicted to moving by thumb a certain way repeatedly for hours. i recognized that my habits were NOT healthy AT ALL. i wanted a way to take back my agency from The Algorithm™, so i started downloading youtube videos directly to my <a href="https://jellyfin.org/">jellyfin server</a>. now, when i want to watch something, i have to:<br><br>1. decide what to download (free of the algorithm. i only hear about videos from other people online or in person, which makes viewing the videos a lot more valuable)<br>2. download it (requires me to enter commands in my terminal and required me to set up a couple scripts)<br>3. rescan my jellyfin library (sounds hard but its a single button)<br><br>now that i do it this way, i have to make a concerted effort to watch a youtube video. it's had the byproduct of making youtube channels feel like i'm watching shows because <em>there is an end to the content i can consume</em>. my entire life, i've had the sum of all human facts and falsehoods in my pocket everywhere i go. i still do, but now i go down more useful rabbit holes. i haven't blocked youtube on any of my devices. in fact, i just watched some slop yesterday! the primary thing that's changed is that i use it differently now. i type youtube.com in my browser with knowledge of what i want to watch <em>before</em> i get on the site. <br>...<br>in classic mike fashion, i want to call back to something i forgot to elaborate on earlier: channels feel like shows. because of this, unsurprisingly, i <em>finally</em> watch more shows. i'm watching <a href="https://i.ytimg.com/vi/e1pGAbqXFNk/maxresdefault.jpg">INVINCIBLE</a> right now and i'm LOVING it. when my desires and thoughts are in MY brain and not being fed to me by an algorithm that desires and thinks for me, i enjoy the content i consume more simply due to my own agency.
+                </p>
+                <h3 style="color:white; font-family:firacode, monospace;">
+              further examples: phone bad
+                </h3>
+                <p class="post">
+              we call that a circle-back. my phone is in japanese (because i'm learning before i go in july), heavily desaturated, devoid of notifications, and full of genuinely productive apps.<br>the fact that it's in a (mostly) unreadable language makes it difficult to use and makes me want to pick it up less. though, if i <em>do</em> pick it up, i trick myself into practicing reading japanese. by simply having my phone, i am always improving in some aspect instead of being hindered.<br>though a useful aspect of my phone usage, it's not enough to completely keep me off of it. that's why my home screen is completely black and white, and the rest of everything on my phone is heavily desaturated (see below). </p>
+              <img src="../images/home_screen.jpeg"></img>
+              <img src="../images/youtube_ex.jpeg"></img>
+              <p class="post">
+              further than desaturation, i also don't have notifications for anything except my bank account and some 2FA apps. this ensures that i am not 100% reachable at all hours of the day, which gives me some privacy. it's very jarring whenever i'm doing something else then my phone pings or buzzes and rips me out of whatever i'm doing and MAKES me pay attention. i have control over where my attention is placed now. if i want to respond to texts, i physically open the app and respond to them. the only thing about doing this is that when i do spend time on my phone, i go through a routine of checking a couple apps, which i feel could be optimized with something like <a href="https://github.com/glanceapp/glance">glance</a>. i wonder if there's some sort of plugin that allows me to monitor everything i have at once so i look at my phone a single time then put it down. <br>unfortunately for me, this is an optimization problem to which i will cave so immediately.<br>...<br>finally, i only keep productive or otherwise helpful apps on my phone. you'll notice on my home screen, i have 16 apps and 3 widgets.<br>that's the only screen on my homepage.<br>that's (mostly) all i use.<br>i have a couple other apps that i hardly access, like tailscale, finamp, nhl, etc. it's really just more technical stuff that i don't use all the time. by having only a handful of apps on my home screen, i access them more. i'm even contemplating just not having a browser on my phone since i'd rather be spending time on the internet using my computer anyways. the reason i'm contemplating it, though, is because of glance, which runs in a browser. ideally, i'd have an android (first time that's been said) on which i can create my own app that accesses a single webpage using <a href="https://www.electronjs.org/">electron</a> or something. my job right now has me using <a href="https://dart.dev/">dart</a>/<a href="https://flutter.dev">flutter</a> which i don't hate like i do javascript (you have to cheer now because i said something based).
+                </p>
+                <h3 style="color:white; font-family:firacode, monospace;">
+              conclusion andy
+                </h3>
+                <p class="post">
+              i kind of got off on a tangent there because i'm utterly insane, but my point is: as i use my brain more, i feel more agency in my decisions. this helps me feel more confident in who i am and what i do, frees up my time to blog (have you noticed i've been posting more lately?), work on whatever the hell i want, and do the things  i enjoy that i wished i could do when i was in the clutches of the algorithm.<br><br>i hope you got a different perspective from reading this. if you didn't that's okay too. if you have something you'd like to say about it, feel free to leave a message on my <a href="https://mote.atabook.org">guestbook</a> or email me at <a href="mailto:micgmcd@proton.me">micgmcd@proton.me</a>. cya~
+                </p>
+              ]]>
+        </item>
+
+        <item>
             <title>04-01-2025</title>
             <link>https://mote.moe/blog/04-01-2025.html</link>
             <guid isPermaLink="true">https://mote.moe/blog/04-01-2025.html</guid>
             <pubDate>Tue, 01 April 2025 17:00:00 EST</pubDate>
             <description><![CDATA[
-              <h1 style="color:white; font-family:firacode;">
+              <h1 style="color:white; font-family:firacode, monospace;">
               04-01-2025
               </h1>
               <hr>
-              <h3 style="color:white; font-family:firacode;">
+              <h3 style="color:white; font-family:firacode, monospace;">
               insanely lucky day
               </h3>
               <p class="post">
@@ -30,9 +71,9 @@
             <guid isPermaLink="true">https://mote.moe/blog/03-10-2025.html</guid>
             <pubDate>Mon, 10 Mar 2025 21:30:00 EST</pubDate>
             <description><![CDATA[
-              <h1 style="color:white; font-family:firacode;">gitting gud</h1>
+              <h1 style="color:white; font-family:firacode, monospace;">gitting gud</h1>
               <hr>
-              <h3 style="color:white; font-family:firacode;">writing</h3>
+              <h3 style="color:white; font-family:firacode, monospace;">writing</h3>
               <p class="post">sometimes i really do just feel like writing. i don't really feel like i have much to write about sometimes, particularly in this moment, but it's nice to have a place to do so.</p>
               <h3 class="default">that's what i'll write about!</h3>
               <p class="post">having a personal website and taking the time to beef it up has been a pretty nice thing to look forward to. gone are the days of being clutched by how many likes i didn't get on my last tiktok. i still check in on tiktok from time to time using my partner as a conduit (whom i <a href="https://mote.moe/blog/02-19-2025.html">talk</a> about <a href="https://mote.moe/blog/12-23-2024.html">a lot</a> (i just wanted the opportunity to link my posts about her ^_^))... but i dont really miss it outside of the discussions and smiles it brings us on a fairly irregular basis<br>...<br>
@@ -51,7 +92,7 @@
             <pubDate>Thu, 06 Mar 2025 00:00:00 EST</pubDate>
             <description><![CDATA[
               
-                <h1 style="color:white; font-family:firacode;">disasterpeace berklee Q+A</h1>
+                <h1 style="color:white; font-family:firacode, monospace;">disasterpeace berklee Q+A</h1>
                 <hr>
                 <p class="post">
               i had the privilege of being able to attend a Q+A with <a href="https://disasterpeace.com/#">rich vreeland [disasterpeace]</a> at berklee's <a href="https://www.instagram.com/berkleevgmc/">video game music club</a> (opens instagram). the interview was conducted primarily by the president of the club, with a public Q+A section near the end. last thing: a disclaimer! i *heavily* paraphrased everything and these exist more as highly condensed (arguably low quality) notes, hence the "mote cut." i cannot take notes at the speed of conversation, unfortunately. anyways, here are my notes!<br><br>
@@ -215,10 +256,10 @@
             <guid isPermaLink="true">https://mote.moe/blog/https://mote.moe/blog/https://mote.moe/blog/02-19-2025.html</guid>
             <pubDate>Wed, 19 https://mote.moe/blog/Feb 2025 00:00:00 EST</pubDate>
             <description><![CDATA[
-              <h1 style="color:white; font-family:firacode;">2 year anniversary</h1>
-              <h1 style="color:white; font-family:firacode;">this page is not formatted for mobile. use a computer for the best experience.</h1>
+              <h1 style="color:white; font-family:firacode, monospace;">2 year anniversary</h1>
+              <h1 style="color:white; font-family:firacode, monospace;">this page is not formatted for mobile. use a computer for the best experience.</h1>
               <hr>
-              <h1 style="text-align:center; font-family:firacode;"><a href="https://mote.moe/blog/special/2yr/begin/begin.html">begin</a></h1>
+              <h1 style="text-align:center; font-family:firacode, monospace;"><a href="https://mote.moe/blog/special/2yr/begin/begin.html">begin</a></h1>
             ]]></description>
         </item>
 
@@ -228,7 +269,7 @@
             <guid isPermaLink="true">https://mote.moe/blog/12-23-2024.html</guid>
             <pubDate>Mon, 23 Dec 2024 00:00:00 EST</pubDate>
             <description><![CDATA[
-              <h1 style="color:white; font-family:firacode;">denver trip</h1>
+              <h1 style="color:white; font-family:firacode, monospace;">denver trip</h1>
               <hr>
               <p class="post">i went to denver with my wonderful partner to meet up with her family for thanksgiving. it was a great
                 time. my spanish has gotten markedly better than the last time i went. honestly i feel like the practice i've gotten
@@ -258,7 +299,7 @@
             <guid isPermaLink="true">https://mote.moe/blog/12-04-2024</guid>
             <pubDate>Wed, 04 Dec 2024 00:00:00 EST</pubDate>
             <description><![CDATA[
-              <h1 style="color:white; font-family:firacode;">mike monthly november</h1>
+              <h1 style="color:white; font-family:firacode, monospace;">mike monthly november</h1>
               <hr>
               <p class="post">better late than never!</p>
               <p class="post">...</p>
@@ -272,7 +313,7 @@
               <p class="post">my journey with things that i try to do in my free time to help set myself up better for success</p>
               <p class="post">the grind</p>
               <p class="post">my current working life</p>
-              <h3 style="color:white; font-family:firacode;" id="social">social</h3>
+              <h3 style="color:white; font-family:firacode, monospace;" id="social">social</h3>
               <p class="post">november was an uninteresting month socially. i didn't really have too much time to hang out with
                 friends
                 because of various projects i had to work on for school, as well as some things that'll be outlined in the
@@ -287,7 +328,7 @@
               <p class="post">one of my biggest goals for next year is to get more out of my friendships by making a conscious
                 effort to do
                 so. i'm not that good at planning things out at the moment, but i hope to get better.</p>
-              <h3 style="color:white; font-family:firacode;" id="aspirations">aspirations</h3>
+              <h3 style="color:white; font-family:firacode, monospace;" id="aspirations">aspirations</h3>
               <p class="post">the main thing i really had to worry about was a project in my mixing class where i had 4 weeks to do
                 ALL of
                 the audio for a scene from a movie. i chose the kung fu fight scene in the matrix. it ended up being pretty fun,
@@ -313,7 +354,7 @@
               <p class="footnote">*when i make decisions i usually try to apply some degree of "bayesian" logic, which is the only
                 useful concept
                 that has come from <a href="https://www.lesswrong.com/">lesswrong</a> to me</p>
-              <h3 style="color:white; font-family:firacode;" id="the grind">the grind</h3>
+              <h3 style="color:white; font-family:firacode, monospace;" id="the grind">the grind</h3>
               <p class="post">as you can imagine based on the previous section, work has been giving me some cognitive trouble. i'm
                 currently
                 training to become a server, but things are going slowly due to staff shortages. while upsetting, the situation
@@ -330,7 +371,7 @@
             <guid isPermaLink="true">https://mote.moe/blog/11-04-2024</guid>
             <pubDate>Mon, 04 Nov 2024 00:00:00 EST</pubDate>
             <description><![CDATA[
-           <h1 style="color:white; font-family:firacode;">mike monthly - october</h1>
+           <h1 style="color:white; font-family:firacode, monospace;">mike monthly - october</h1>
            <hr>
            <div>
                <p class="post">i find it tough to keep track of events that occur in my life since things move kind of quickly what with work and school and all. right now i'm working ~30 hours a week on top of a 17 credit semester on TOP of the normal life stuff people have to do. my partner has been a massive help in helping me navigate my own self-sustainability and personal development. i really think i would've burned out by now if it wasn't for her.<br><br>
@@ -346,11 +387,11 @@
                <strong>the grind</strong><br><br>
                <em>i need to make money, so i go to work. i don't like to view my time spent at work as purely drone time though because that makes me sad. i'm gonna detail the goings ons there... here.</em><br>...</p>
                
-               <h3 style="color:white; font-family:firacode;" id="social">social</h3>
+               <h3 style="color:white; font-family:firacode, monospace;" id="social">social</h3>
                <p class="post">i've been spending a lot more time with friends that i regretted not spending time with in years passed. i went to my friend <a href="https://www.instagram.com/itsdeanam/">dean's</a>(instagram // <a href="https://www.facebook.com/privacy/policy/">why disclose?</a>) show with the <a href="https://www.instagram.com/theharrystylesensemble/">berklee harry styles ensemble</a>(instagram). it was a mind-blowing performance. some of the things that were interesting were: a horn section, including a couple solos; a string quartet for one of my partner's <a href="https://music.apple.com/us/album/sign-of-the-times/1226034336?i=1226034393">favorite songs</a>(apple music); and a mashup of watermelon sugar and adore you with a switching duet-style vocal performance*. when i say this shit was crazy i mean it. i'm not a huge harry styles fan and i didn't know many of the songs, but i still enjoyed the show all the same. i bring this up because afterwards we hung out for the first time in a while. it was very nice to talk again, catch up, all that jazz.</p>
                <p class="footnote"><em>*rapid fire: vocal percussion solo, ballerina (???), wild expressivity, super tight and well executed choreo, etc.</em></p>
                <p class="post">that's one of the biggest things of my friends' that i went to this month, though many of my compatriots certainly have <a href="http://www.sleepyhollowpd.info/">more to offer</a> and <a href="https://www.instagram.com/nesynthfest/">more to come</a>(instagram).</p>
-               <h3 style="color:white; font-family:firacode;" id="aspirations">aspirations</h3>
+               <h3 style="color:white; font-family:firacode, monospace;" id="aspirations">aspirations</h3>
                <p class="post">i had a very enlightening meeting with one of my professors, <a href="https://college.berklee.edu/people/jean-luc-cohen">jean-luc</a>. we talked about what needs to be done in order to have a successful application for a games sound design internship, with all the deadlines coming up next month. he also opened my mind to the concept of technical sound design. he mentioned that there aren't many at berklee that have pursued that path and that they make about as much money as a programmer or director at the senior level.</p>
                <p class="post">this was all very inspirational, so i begun work on my reel. i have 2 clips done so far and i plan to do 5. i'll probably post it here with some session reports when i'm done.</p>
                <p class="post">all of my sound design stuff has been going pretty well. i left <a href="https://smilleyhasawebsite.com/">live music</a> behind to a certain extent. i think that was all a very good decision considering i'm able to have more time to develop my chops as a designer. 
@@ -358,13 +399,13 @@
                as far as school itself, though, midterms were this month. they were hard. i had one major one in my <a href="https://cycling74.com/products/max">max/msp</a> class where i had to design an instrument, learn to play it, then develop repertoire for it all in the span of 3 weeks. it was a great time. i'm not really coming around to max like i thought i would, though. i think the graphical side of it is sort of what kills me. i'd prefer to be typing, though i don't exactly know how the same flows would be integrated in an easy-to-keep-track-of way.</p>
                <p class="post">my other midterms were deceptively difficult. i ended up being stopped midway through my conducting midterm and immediately given an A. that was pretty representative of how most of my core class midterms went.</p>
                <p class="post">this month was great for the development of my aspirations. i look forward to another of the same kind.</p>
-               <h3 style="color:white; font-family:firacode;" id="the-grind">the grind</h3>
+               <h3 style="color:white; font-family:firacode, monospace;" id="the-grind">the grind</h3>
                <p class="post">i work as a runner/busser in an <a href="https://www.saltiegirl.com/">upscale restaurant</a> in back bay. it's pretty stressful, but i love the fast pace of my job. i also make a LOT of money and there arent many places that can allow me to be in the place that i am in the same way.<br><br>
                i've been conflicted this month since i'm gunning for a promotion to be a server, at which point i'd be making ~$100k a year, which is absolutely insane for my age. the thing that makes me conflicted, though, is that i'd have to sacrifice a good amount of time for this goal. thinking about it a little, i think it might not be too bad an idea to be a server for a couple months, then find some place that will allow for a more flexible schedule... but its also a LOT of money.<br><br>
                i did the math a little, and i would have ~$46,000 by the time i enter my final semester at berklee, if i continue to live within my means, that is. i think realistically i could blow $10k of that <em>easily</em> on stuff i (probably) don't need that badly. EVEN AFTER THAT, id be left with THIRTY SIX THOUSAND DOLLARS, provided i make the average tips a server typically makes there.<br><br>
                that would be <em>more</em> than enough to get my life started with my partner wherever we end up going. having that security would allow me to solely focus on school and job applications for my final semester, which would be a luxury i don't want to pass up.<br><br>
                the primary caveat of my plan, though, is that it requires a great deal of patience. i consider myself to be a <em>somewhat</em> patient person, though i have my pitfalls like all others. i think if i lock the hell in and get all of that done, i'll be in good shape. all i can do is hope.<br><br></p>
-               <h3 style="color:white; font-family:firacode;" id="end">end</h3>
+               <h3 style="color:white; font-family:firacode, monospace;" id="end">end</h3>
                <p class="post">organizing these three things like this has made me look at my life in a more disconnected way, which helps a lot of the time since it can provide new perspective. october was pretty crazy work-wise, but i think the "worst" of it is over. november shows promise to be a somewhat less stressful month, though we'll see how things unfold.</p>
              ]]></description>
         </item>
@@ -375,8 +416,8 @@
             <guid isPermaLink="true">https://mote.moe/blog/09-04-2024</guid>
             <pubDate>Mon, 09 Sep 2024 00:00:00 EST</pubDate>
             <description><![CDATA[
-              <h1 style="color:white; font-family:firacode;">power underneath despair</h1>
-              <h2 style="color:white; font-family:firacode;">TW: SUICIDE</h2>
+              <h1 style="color:white; font-family:firacode, monospace;">power underneath despair</h1>
+              <h2 style="color:white; font-family:firacode, monospace;">TW: SUICIDE</h2>
               <hr>
               <div>
               <p style="color:white" class="post">looking down at the ground from a great height, i wonder why it is that i don't jump. <br><br> 

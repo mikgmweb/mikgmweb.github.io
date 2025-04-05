@@ -72,7 +72,6 @@ for k,v in pairs(hlines) do
 end
 
 while (c <= 10) do
-  print(c)
   for k,v in pairs(writelines) do
     if (string.find(v, string.format("heading%s",c)) or string.find(v, string.format("paragraph%s",c))) then
       print("found!")
@@ -83,4 +82,5 @@ while (c <= 10) do
   end
   c = c + 1
 end
-printTable(writelines,"blog/"..htmlfilename)
+
+printtable(writelines,"blog/"..htmlfilename)
